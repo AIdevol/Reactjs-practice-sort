@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #8758ff;
+  background: #8b6262;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,7 +25,7 @@ h1 {
 }
 
 .TodoWrapper {
-  background: #1A1A40;
+  background: #080808;
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 5px;
